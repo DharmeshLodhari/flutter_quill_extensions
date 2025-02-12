@@ -1,11 +1,11 @@
 name: flutter_quill_extensions
 description: Embed extensions for flutter_quill to support loading images and videos
 version: 11.0.0-dev.7
-homepage: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
-repository: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
-issue_tracker: https://github.com/singerdmx/flutter-quill/issues/
-documentation: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
-topics: [editor, text, rich-text-editor, quill, flutter-quill]
+#homepage: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
+#repository: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
+#issue_tracker: https://github.com/singerdmx/flutter-quill/issues/
+#documentation: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
+#topics: [editor, text, rich-text-editor, quill, flutter-quill]
 
 platforms:
   android:
@@ -47,7 +47,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: 4.0.0
   mocktail: ^1.0.4
 
 flutter:
